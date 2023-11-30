@@ -1,8 +1,8 @@
 <h2> 👋 Hello! </h2> 
 
--  I’m an front-end developer from Brazil.
--  Laboratoria, web development bootcamp student. 
--  I’m currently learning NodeJS and ANGULAR.  
+-  I’m an web developer from Brazil.
+-  Learning web development in the Laboratoria Bootcamp. 
+-  I’m currently learning ANGULAR.  
 -  Contact me: gabriela.faria806@gmail.com
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
